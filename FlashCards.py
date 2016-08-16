@@ -2,7 +2,7 @@ import random
 
 #opens the file used for the flash cards.
 
-f = open('Spanish.txt','r')
+f = open('StateCapitals.txt','r')
 
 #reads first line to find out what the category is and prints it to the screen
 category = f.readline()
